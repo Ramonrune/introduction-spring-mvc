@@ -1,5 +1,7 @@
 # Introduction to spring MVC
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c31768ba2f2f46f3b4bb12067d1e8ab7)](https://app.codacy.com/app/Ramonrune/introduction-spring-mvc?utm_source=github.com&utm_medium=referral&utm_content=Ramonrune/introduction-spring-mvc&utm_campaign=Badge_Grade_Dashboard)
+
 Introduction to spring MVC from pluralsight course.
 
 ## Content
